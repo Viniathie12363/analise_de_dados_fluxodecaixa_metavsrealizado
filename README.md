@@ -27,10 +27,10 @@ Durante o desenvolvimento, foi realizada a modelagem, tratamento e visualizaçã
 
 ## 📷 Dashboard
 **Página 1 – Fluxo de Caixa**  
-![Fluxo de Caixa](imagens/pagina1.png)  
+![Fluxo de Caixa](pagina1.png)  
 
 **Página 2 – Realizado VS Meta**  
-![Realizado VS Meta](imagens/pagina2.png)  
+![Realizado VS Meta](pagina2.png)  
 
 ---
 
